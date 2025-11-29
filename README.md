@@ -62,7 +62,7 @@ Create a `.env` file in the root directory:
 
 ```env
 # MongoDB Configuration
-MONGO_STRING=mongodb+srv://username:password@cluster.mongodb.net/?retryWrites=true&w=majority
+MONGO_STRING=
 MONGODB_DATABASE=cricket_news_bot
 
 # Telegram Bot Configuration
@@ -403,6 +403,7 @@ For issues or questions:
 5. Verify Telegram bot configuration
 
 ---
+
 
 
 
