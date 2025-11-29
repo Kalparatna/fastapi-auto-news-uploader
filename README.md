@@ -404,4 +404,5 @@ For issues or questions:
 
 ---
 
-**🏏 Your FastAPI Cricket News Bot is ready! Visit `/docs` for interactive API documentation! ⚡**
+
+
